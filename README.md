@@ -4,7 +4,7 @@ In order to diminish the influence of colour on its classification accuracy, a s
 Both arms will then be merged together for classification.
 Finally, the individual contribution of the two arms will be assessed with the help of [__GradCAM__](https://arxiv.org/abs/1610.02391) . 
 
-##__Results__
+## __Results__
 Even though the quality of the activations of the grayscale (collapsed) arm is low, both pictures show clearly different activation intensities and patterns.
 
 
